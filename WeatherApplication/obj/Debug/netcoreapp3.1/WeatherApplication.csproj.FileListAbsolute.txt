@@ -1,0 +1,16 @@
+C:\Users\biggi\Desktop\WeatherApplication\WeatherApplication\bin\Debug\netcoreapp3.1\WeatherApplication.exe
+C:\Users\biggi\Desktop\WeatherApplication\WeatherApplication\obj\Debug\netcoreapp3.1\WeatherApplication.AssemblyInfoInputs.cache
+C:\Users\biggi\Desktop\WeatherApplication\WeatherApplication\obj\Debug\netcoreapp3.1\WeatherApplication.AssemblyInfo.cs
+C:\Users\biggi\Desktop\WeatherApplication\WeatherApplication\bin\Debug\netcoreapp3.1\WeatherApplication.deps.json
+C:\Users\biggi\Desktop\WeatherApplication\WeatherApplication\bin\Debug\netcoreapp3.1\WeatherApplication.runtimeconfig.json
+C:\Users\biggi\Desktop\WeatherApplication\WeatherApplication\bin\Debug\netcoreapp3.1\WeatherApplication.runtimeconfig.dev.json
+C:\Users\biggi\Desktop\WeatherApplication\WeatherApplication\bin\Debug\netcoreapp3.1\WeatherApplication.dll
+C:\Users\biggi\Desktop\WeatherApplication\WeatherApplication\bin\Debug\netcoreapp3.1\WeatherApplication.pdb
+C:\Users\biggi\Desktop\WeatherApplication\WeatherApplication\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\biggi\Desktop\WeatherApplication\WeatherApplication\bin\Debug\netcoreapp3.1\System.Device.dll
+C:\Users\biggi\Desktop\WeatherApplication\WeatherApplication\obj\Debug\netcoreapp3.1\WeatherApplication.csprojAssemblyReference.cache
+C:\Users\biggi\Desktop\WeatherApplication\WeatherApplication\obj\Debug\netcoreapp3.1\WeatherApplication.csproj.CoreCompileInputs.cache
+C:\Users\biggi\Desktop\WeatherApplication\WeatherApplication\obj\Debug\netcoreapp3.1\WeatherApplication.csproj.CopyComplete
+C:\Users\biggi\Desktop\WeatherApplication\WeatherApplication\obj\Debug\netcoreapp3.1\WeatherApplication.dll
+C:\Users\biggi\Desktop\WeatherApplication\WeatherApplication\obj\Debug\netcoreapp3.1\WeatherApplication.pdb
+C:\Users\biggi\Desktop\WeatherApplication\WeatherApplication\obj\Debug\netcoreapp3.1\WeatherApplication.genruntimeconfig.cache
